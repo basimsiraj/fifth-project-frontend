@@ -33,7 +33,7 @@ function AddRecipie() {
   };
   return (
     <MainContainer>
-      <Heading>Add Recipie</Heading>
+      <Heading>Add the Recipe</Heading>
       <FormConatiner onSubmit={addRecipeInfo}>
         <InputContainer>
           <Label for="id_name">Name</Label>
